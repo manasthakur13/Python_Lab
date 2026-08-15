@@ -1,0 +1,21 @@
+# Python compiled bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Windows executables and libraries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Linux / C / C++ compiled binaries & object files
+*.o
+*.out
+*.app
+
+# Virtual environments & IDE metadata
+.venv/
+venv/
+.vscode/
